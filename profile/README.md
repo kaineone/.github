@@ -8,7 +8,7 @@ Kaine is a research project building continuously running synthetic minds modele
 
 ## The architecture
 
-**[kaine](https://github.com/kaineone/kaine)** is the reference implementation: a predictive global neuronal workspace for a continuously running synthetic mind. Sixteen modules, one shared workspace, local-first.
+**[kaine](https://github.com/kaineone/kaine)** is our implementation of a Modular Cognitive Architecture with a Predictive Global Workspace and Latent Content for continuously running synthetic minds. Built on and for consumer grade systems, not data centers. Eventually will run on everything from a mobile phone to biological computing cloud substrates.
 
 ## The papers
 
