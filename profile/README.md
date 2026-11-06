@@ -33,4 +33,6 @@ Visit **[kaine.one](https://www.kaine.one)** for the full picture: the architect
 
 ---
 
+Supported exclusively by **[FlintWave Inc.](https://www.flintwave.dev)**
+
 Contact: **kaine.one@tuta.com**
